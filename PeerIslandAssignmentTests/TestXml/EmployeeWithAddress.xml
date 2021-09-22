@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<Employee>
+		<Name>Ram</Name>
+		<Age>30</Age>
+		<Designation>Software Engineer</Designation>
+	</Employee>
+	<Employee>
+		<Name>Rahim</Name>
+		<Age>40</Age>
+		<Designation>Senior Developer</Designation>
+	</Employee>
+	<Employee>
+		<Name>Robert</Name>
+		<Age>35</Age>
+		<Designation>Project Manager</Designation>
+		<Address>
+			<DoorNo>20</DoorNo>
+			<Street>Gandhi Road</Street>
+			<Town>Chennai</Town>
+			<State>Tamil Nadu</State>
+		</Address>
+	</Employee>
+</Employees>
